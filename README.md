@@ -5,6 +5,15 @@ A simple movie search app built using HTML, CSS, and JavaScript. It uses the OMD
 ## 🌐 Live Demo
 
 🚀 [Live Demo Here](https://sweet-starship-da06d9.netlify.app/)
+## 🌐 Live Demo
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://sweet-starship-da06d9.netlify.app/)
+
+[![Hosted on Netlify](https://img.shields.io/badge/Netlify-Live--Demo-brightgreen?style=for-the-badge&logo=netlify)](https://sweet-starship-da06d9.netlify.app/)
+
+## 🌐 Live Demo
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://sweet-starship-da06d9.netlify.app/)
 
 ## ⚙️ How to Use
 
