@@ -20,7 +20,7 @@ document.querySelectorAll(".nav-list li a").forEach((link) => {
 // Function to fetch movie details using OMDb API
 const getMovieInfo = async (movie) => {
   // const myAPIkey = "26dbda";
-  const url = `http://www.omdbapi.com/?apikey=${myAPIkey}&t=${movie}`;
+  const url = `https://www.omdbapi.com/?apikey=${myAPIkey}&t=${movie}`;
 
   try {
     const response = await fetch(url);
